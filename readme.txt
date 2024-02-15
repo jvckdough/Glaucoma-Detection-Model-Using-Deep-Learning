@@ -1,3 +1,5 @@
+INFO AND CREDIT REGARDING DATA USED FOR TRAINING MODE:
+
 This data set is released for academic research use only.
 
 The data set has 650 images. The images are given in JPG format and the manual disc/cup markings are given in the Matlab MAT file. By loading the MAT file, e.g., load('001.mat');
